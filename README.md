@@ -1,3 +1,4 @@
+##### 老师好，第一节课课上课下作业和第二节课课上作业都在Database-Principle库里。
 # Lecture2-homework
 
 #### 1.	
